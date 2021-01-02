@@ -15,15 +15,12 @@
 ```
 while(noSuccess){
   tryAgain();
-
-  if(dead)
-    break;   
 }
 ```
 
 ```
 import believeindreams;
-require 'work'
+import work;
 
 if(YOU == BelieveInDreams && WORK == HARD){
   dreamsComeTrue();

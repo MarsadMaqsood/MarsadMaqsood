@@ -12,17 +12,21 @@
 - 😄 Pronouns: ... Marsad Maqsood
 - ⚡ Fun fact: ... I'm a student of CS
 
+```
 while(noSuccess){
   tryAgain();
 
   if(dead)
     break;   
 }
+```
 
-import BelieveInDreams;
-import WORK;
+```
+import 'believeindreams';
+import 'work';
 
 if(YOU == BelieveInDreams && WORK == HARD){
   dreamsComeTrue();
 }
+```
 

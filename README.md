@@ -22,8 +22,8 @@ while(noSuccess){
 ```
 
 ```
-import 'believeindreams';
-import 'work';
+import believeindreams;
+require 'work';
 
 if(YOU == BelieveInDreams && WORK == HARD){
   dreamsComeTrue();

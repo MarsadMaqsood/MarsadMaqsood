@@ -23,7 +23,7 @@ while(noSuccess){
 
 ```
 import believeindreams;
-require 'work';
+require 'work'
 
 if(YOU == BelieveInDreams && WORK == HARD){
   dreamsComeTrue();

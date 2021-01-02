@@ -5,8 +5,7 @@
 -->
 ### I'm Very Happy To Know That You Just Visited My Github Profile 😉
 - 🔭 I’m currently working on ... Android App Development and YouTube Tutorials
-- 🌱 I’m currently learning ... Flutter(Dart)
-<!-- 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ...-->
+- 🌱 I’m currently learning ... Flutter(Dart)<!-- 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about ... Android App Development
 - 📫 How to reach me: ... Mail: codingwithmarsad@gmail.com, Instagram:https://www.instagram.com/marsad0408/, YouTube https://www.youtube.com/c/CodingwithMarsad/
 - 😄 Pronouns: ... Marsad Maqsood

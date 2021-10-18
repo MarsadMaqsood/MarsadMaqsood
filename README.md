@@ -1,13 +1,9 @@
 ### Hi there 👋
 
-<!--
-**MarsadMaqsood/MarsadMaqsood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 ### I'm Very Happy To Know That You Just Visited My Github Profile 😉
 - 🔭 I’m currently working on ... Android App Development and YouTube Tutorials
-- 🌱 I’m currently learning ... Flutter(Dart)<!-- 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ...-->
+- 🌱 I’m currently learning ... Flutter(Dart)
 - 💬 Ask me about ... Android App Development
-- 📫 How to reach me: ... Mail: codingwithmarsad@gmail.com, Instagram:https://www.instagram.com/marsad0408/, (YouTube)[youtube]
 - 😄 Pronouns: ... Marsad Maqsood مرثد مقصود
 - ⚡ Fun fact: ... I'm a student of CS
 
@@ -17,14 +13,16 @@ while(noSuccess){
 }
 ```
 
-```
-import believeindreams;
-import work;
+---
 
-if(YOU == BelieveInDreams && WORK == HARD){
-  dreamsComeTrue();
-}
-```
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 ---
 
@@ -44,4 +42,9 @@ if(YOU == BelieveInDreams && WORK == HARD){
 
 
 
+[website]: https://marsad.dev/
+[twitter]: https://twitter.com/Marsad_0408
 [youtube]: https://www.youtube.com/channel/UCGZF_fq2lEDAPl_BkDSphwQ
+[instagram]: https://www.instagram.com/marsad0408/
+
+

@@ -26,4 +26,12 @@ if(YOU == BelieveInDreams && WORK == HARD){
 }
 ```
 
-![Marsad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarsadMaqsood&show_icons=true&theme=tokyonight)
+---
+
+# Latest YouTube Videos
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+![Marsad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarsadMaqsood&show_icons=true&hide_border=true)

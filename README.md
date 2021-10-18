@@ -29,8 +29,8 @@ if(YOU == BelieveInDreams && WORK == HARD){
 ---
 
 # Latest YouTube Videos
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBEs:END -->
 
 ---
 

@@ -30,7 +30,7 @@ if(YOU == BelieveInDreams && WORK == HARD){
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-<!-- YOUTUBEs:END -->
+<!-- YOUTUBE:END -->
 
 ---
 

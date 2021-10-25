@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning ... Flutter(Dart)
 - 💬 Ask me about ... Android App Development
 - 😄 Pronouns: ... Marsad Maqsood مرثد مقصود
-- ⚡ Fun fact: ... I'm a student of CS
 
 ```
 while(noSuccess){

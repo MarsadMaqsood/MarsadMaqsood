@@ -29,7 +29,7 @@ while(noSuccess){
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter Plant App UI - Week 1](https://www.youtube.com/watch?v=fLlNAo44n5g)
+- [Flutter Plant App UI || Week 1](https://www.youtube.com/watch?v=fLlNAo44n5g)
 - [How to create Social Media App in Android Studio || Last Part || Part 38](https://www.youtube.com/watch?v=mdYuU_W3byQ)
 - [How to create Social Media App in Android Studio || Chat || Part 37](https://www.youtube.com/watch?v=nqyyUNTArcQ)
 - [How to create Social Media App in Android Studio || Chat || Part 36](https://www.youtube.com/watch?v=fxZsr-LnExQ)

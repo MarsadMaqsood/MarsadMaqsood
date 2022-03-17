@@ -38,6 +38,8 @@ while(noSuccess){
 
 ![Marsad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarsadMaqsood&show_icons=true&hide_border=true)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarsadMaqsood)](https://git.io/streak-stats)
+
 
 [website]: https://marsad.dev/
 [twitter]: https://twitter.com/Marsad_0408

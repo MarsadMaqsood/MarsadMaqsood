@@ -38,7 +38,7 @@ while(noSuccess){
 
 ![Marsad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarsadMaqsood&show_icons=true&hide_border=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarsadMaqsood&theme=graywhite&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5594F0&fire=8A00DD&stroke=FFFFFF&sideLabels=4D72F2&currStreakLabel=5594F0)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarsadMaqsood&theme=graywhite&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5594F0&fire=8A00DD&stroke=FFFFFF&sideLabels=4D72F2&currStreakLabel=5594F0)](https://github.com/MarsadMaqsood/MarsadMaqsood/)
 
 
 [website]: https://marsad.dev/

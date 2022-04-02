@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hello Fellow \<Developers>
 
-### I'm Very Happy To Know That You Just Visited My Github Profile 😉
-- 🔭 I’m currently working on ... Android App Development and YouTube Tutorials
-- 🌱 I’m currently learning ... Flutter(Dart)
-- 💬 Ask me about ... Android App Development
-- 😄 Pronouns: ... Marsad Maqsood مرثد مقصود
+---
+
+I'm Very Happy To Know That You Just Visited My Github Profile 😉
+- 🔭 I’m currently working on my Blog, YouTube Tutorials and App Development.
+- 💬 Ask me about Java, Dart.
 
 ```
 while(noSuccess){
@@ -37,9 +37,18 @@ while(noSuccess){
 
 ---
 
-[![Marsad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarsadMaqsood&show_icons=true&hide_border=true)](https://github.com/MarsadMaqsood)
+### Statistics
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarsadMaqsood&theme=graywhite&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5594F0&fire=8A00DD&stroke=FFFFFF&sideLabels=4D72F2&currStreakLabel=5594F0)](https://github.com/MarsadMaqsood)
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MarsadMaqsood&theme=react-dark&bg_color=ffffff&color=3080EC&point=3080EC)](https://git.io/praveenscience)
+
+| [![Marsad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarsadMaqsood&show_icons=true&hide_border=true)](https://github.com/MarsadMaqsood) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarsadMaqsood&theme=graywhite&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5594F0&fire=8A00DD&stroke=FFFFFF&sideLabels=4D72F2&currStreakLabel=5594F0)](https://github.com/MarsadMaqsood) |
+| --- | --- |
+
+---
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=solidBlue)
+
+
 
 
 [website]: https://marsad.dev/

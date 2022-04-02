@@ -49,8 +49,6 @@ while(noSuccess){
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=solidBlue)
 
 
-
-
 [website]: https://marsad.dev/
 [twitter]: https://twitter.com/Marsad_0408
 [youtube]: https://www.youtube.com/channel/UCGZF_fq2lEDAPl_BkDSphwQ

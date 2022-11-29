@@ -37,7 +37,6 @@ while(noSuccess){
 
 ---
 
-
 ### Statistics
 
 [![MarsadMaqsood's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MarsadMaqsood&theme=react-dark&bg_color=ffffff&color=3080EC&point=3080EC)](https://github.com/MarsadMaqsood)

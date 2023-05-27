@@ -27,6 +27,10 @@ while(noSuccess){
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to get date and time from the internet in Flutter](https://marsad.dev/how-to-get-date-and-time-from-internet-in-flutter/)
+- [The Importance of Artificial Intelligence in Digital Business](https://marsad.dev/the-importance-of-artificial-intelligence-in-digital-business/)
+- [Why Cloud Computing is Essential for Digital Businesses](https://marsad.dev/why-cloud-computing-is-essential-for-digital-businesses/)
+- [Why Your Business Needs a Digital Transformation Strategy](https://marsad.dev/why-your-business-needs-a-digital-transformation-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

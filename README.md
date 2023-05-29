@@ -27,6 +27,7 @@ while(noSuccess){
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Test Post](https://marsad.dev/test-post/)
 - [How to get date and time from the internet in Flutter](https://marsad.dev/how-to-get-date-and-time-from-internet-in-flutter/)
 <!-- BLOG-POST-LIST:END -->
 

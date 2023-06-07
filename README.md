@@ -27,7 +27,9 @@ while(noSuccess){
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://marsad.dev/test-post/)
+- [Wallpaper App Source Code Download](https://marsad.dev/wallpaper-app-source-code-download/)
+- [Admin App Source Code Download | Earning App](https://marsad.dev/admin-app-source-code-download-earning-app/)
+- [Earning App Source Code Download](https://marsad.dev/earning-app-source-code-download/)
 - [How to get date and time from the internet in Flutter](https://marsad.dev/how-to-get-date-and-time-from-internet-in-flutter/)
 <!-- BLOG-POST-LIST:END -->
 

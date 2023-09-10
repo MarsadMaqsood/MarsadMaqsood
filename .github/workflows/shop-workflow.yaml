@@ -17,4 +17,5 @@ jobs:
       - name: Pull in marsad.dev products
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          comment_tag_name: "Products"
           feed_list: "https://marsad.dev/shop/feed/"

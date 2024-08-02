@@ -27,9 +27,7 @@ while(noSuccess){
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate WA Status Saver Documentation](https://marsad.dev/ultimate-wa-status-saver-documentation/)
-- [Stylish Dialog: Flutter Package for Animated Dialogs](https://marsad.dev/stylish-dialog-flutter-package-for-animated-dialogs/)
-- [Implement a Powerful Stylish Bottom Bar in Flutter](https://marsad.dev/implement-a-powerful-stylish-bottom-bar-in-flutter/)
+- [Hello world!](https://marsad.dev/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

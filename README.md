@@ -27,7 +27,7 @@ while(noSuccess){
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello world!](https://marsad.dev/hello-world/)
+- [cas](https://marsad.dev/cas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

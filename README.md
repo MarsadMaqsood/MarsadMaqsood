@@ -27,7 +27,11 @@ while(noSuccess){
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [cas](https://marsad.dev/cas/)
+- [Best Moisture Wicking Shirts for Women](https://marsad.dev/best-moisture-wicking-shirts-for-women/)
+- [Trendy Shirts For Women From Gipsy](https://marsad.dev/trendy-shirts-for-women-from-gipsy/)
+- [How should I dress for a gym workout?](https://marsad.dev/how-should-i-dress-for-a-gym-workout/)
+- [What To Include In An Environmental Policy](https://marsad.dev/what-to-include-in-an-environmental-policy/)
+- [Women’s Ingenious Fall Transition Outfit](https://marsad.dev/womens-ingenious-fall-transition-outfit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

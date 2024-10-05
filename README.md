@@ -25,13 +25,7 @@ while(noSuccess){
 
 ---
 
-### Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Best Moisture Wicking Shirts for Women](https://marsad.dev/best-moisture-wicking-shirts-for-women/)
-- [Trendy Shirts For Women From Gipsy](https://marsad.dev/trendy-shirts-for-women-from-gipsy/)
-<!-- BLOG-POST-LIST:END -->
 
----
 
 ### Latest YouTube Videos
 

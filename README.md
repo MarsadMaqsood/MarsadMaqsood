@@ -8,8 +8,8 @@
 ## 🔍 Who I Am
 
 - **🧑‍💻 Contributor & Maintainer**: I actively maintain and contribute to several Dart/Flutter and Java libraries.
-- **📚 Continuous Learner**: I regularly build experimental apps, write blog posts, and create YouTube tutorials to explore new technologies.
-- **⚙️ Core Stack**: Flutter • Dart • Native Android (Java/Kotlin) • Firebase • REST APIs • GetX
+- **📚 Continuous Learner**: I regularly build experimental apps and write blog posts to explore new technologies.
+- **⚙️ Core Stack**: Flutter • Dart • Native Android (Java/Kotlin) • Firebase • REST APIs • Riverpod • GetX
 - **🧪 Project-Specific**: Node.js (Cloud Functions) • TensorFlow Lite • MediaPipe • WebRTC • Docker • Python • Figma
 - **🔁 Adaptive Developer**: Comfortable picking up new tools and languages as needed to deliver high-quality solutions.
 
